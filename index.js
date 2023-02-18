@@ -8,6 +8,6 @@ const firstName = "Helen";
 const lastName = "Oridupa";
 const stuternTrack = "Software Engineering";
 const skills = "programming,critical thinking";
-const color = "blue"
+const favColor = "blue"
 const year = 1960
-console.log("My name is "+ firstName + lastName.);
+console.log("My name is " + firstName + " " +  lastName + "." + "I am learning " + stuternTrack + " at stutern" + "." + "My skills include " + skills + " and my favourite color is " + favColor + "." + "My country, Nigeria gained independence in " + year + ".");
